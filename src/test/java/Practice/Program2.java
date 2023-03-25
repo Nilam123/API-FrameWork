@@ -6,6 +6,8 @@ public class Program2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello API 2");
+		
+		System.out.println("Hello API 2");
 	}
 
 }
